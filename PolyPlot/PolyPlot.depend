@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793308797 source:/home/nacho/Escritorio/Proyectos y Trabajos de la UTN/ProyectoFinalINSPT-C-PolyPlot/PolyPlot/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
